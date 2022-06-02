@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/IdealProjects/TodoServer/TodoServer.iml" filepath="$USER_HOME$/IdealProjects/TodoServer/TodoServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../servercode/server_code/server_code.iml" filepath="$PROJECT_DIR$/../servercode/server_code/server_code.iml" />
+    </modules>
+  </component>
+</project>
